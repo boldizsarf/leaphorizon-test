@@ -1,0 +1,26 @@
+{
+  "files": [
+    ".eslintrc.json",
+    ".gitignore",
+    "README.md",
+    "next.config.ts",
+    "package-lock.json",
+    "package.json",
+    "pages/_app.tsx",
+    "pages/_document.tsx",
+    "pages/api/hello.ts",
+    "pages/fonts/GeistMonoVF.woff",
+    "pages/fonts/GeistVF.woff",
+    "pages/index.tsx",
+    "postcss.config.mjs",
+    "public/favicon.ico",
+    "public/file.svg",
+    "public/globe.svg",
+    "public/next.svg",
+    "public/vercel.svg",
+    "public/window.svg",
+    "styles/globals.css",
+    "tailwind.config.ts",
+    "tsconfig.json"
+  ]
+}
